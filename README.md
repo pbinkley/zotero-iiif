@@ -24,7 +24,7 @@ That sets the bar pretty low for some kind of improved service.
 
 ## 1. A Lookup Engine Using a Field
 
-In this approach we specify a lookup engine that will appear in the dropdown by the green arrow above the item view. I don't know how to make a lookup engine retrieve an attached link (and I think it may not be possible), so for this demo I'll put the manifest URI in the "Loc. in Archive" field. It's used in the ```_urlTemplate``` value. If you'd rather use a different field, codes can be found [https://aurimasv.github.io/z2csl/typeMap.xml](here) (use the name in the "Zotero type" column).
+In this approach we specify a lookup engine that will appear in the dropdown by the green arrow above the item view. I don't know how to make a lookup engine retrieve an attached link (and I think it may not be possible), so for this demo I'll put the manifest URI in the "Loc. in Archive" field. It's used in the ```_urlTemplate``` value. If you'd rather use a different field, codes can be found [here](https://aurimasv.github.io/z2csl/typeMap.xml) (use the name in the "Zotero type" column).
 
 Follow the instructions on [adding lookup engines](https://www.zotero.org/support/locate).
 
