@@ -1,0 +1,13 @@
+theme: minima
+
+title: Zotero-IIIF
+email: peter.binkley@ualberta.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  A lookup engine for Zotero, which loads a IIIF manifest from
+  a specified field into an instance of Mirador 3.
+baseurl: "/zotero-iiif" # the subpath of your site, e.g. /blog
+url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+mastodon:
+- username: pbinkley
+  instance: code4lib.social
