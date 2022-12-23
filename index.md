@@ -1,11 +1,12 @@
 ---
 title: Zotero-IIIF
+creator: Peter Binkley
 ---
 
-2022-12-23
+2022-12-23 ~ [code repo](https://pbinkley.github.io/zotero-iiif/)
 
 This site is an attempt to meet the need to integrate [IIIF](https://iiif.org/)
-manifest handling into[Zotero](https://www.zotero.org/). After some 
+manifest handling into [Zotero](https://www.zotero.org/). After some 
 [experimentation](https://github.com/pbinkley/zotero-iiif/), this easy 
 method seems to
 be the best for now. It assumes you will store the URI of a IIIF

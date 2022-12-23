@@ -1,6 +1,7 @@
 theme: minima
 
 title: Zotero-IIIF
+author: Peter Binkley
 email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   A lookup engine for Zotero, which loads a IIIF manifest from
@@ -8,6 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/zotero-iiif" # the subpath of your site, e.g. /blog
 url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+github_username: pbinkley
 mastodon:
 - username: pbinkley
   instance: code4lib.social
